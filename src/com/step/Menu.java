@@ -6,7 +6,7 @@ public class Menu {
             System.out.println("\t1) Product info :");
             System.out.println("\t2) Total price  :");
             System.out.println("\t3) Exit         :");
-            System.out.print ("\t Enter an option : ");
+            System.out.print ("\t Enter an option  : ");
         }
 
         public void menuProduct() {
